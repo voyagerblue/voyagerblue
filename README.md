@@ -9,6 +9,6 @@ $\color{#8A9A5B}{\textsf{“Chart your own way. Your path. That's my wish.”}}$
 
 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/45b32e87-434a-4d23-97f7-a6fe2da484c2" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/45b32e87-434a-4d23-97f7-a6fe2da484c2" />
 
 $\color{#76b6c4}{\textsf{}}$
