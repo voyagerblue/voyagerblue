@@ -7,8 +7,7 @@ $\color{#76b6c4}{\textsf{You’re free to reach out if you want to. I’m not gr
 $\color{#7FFFD4}{\textsf{C+H — it’s fine. Just check if I’m not already with someone else. If I am, ask them first. Shouldn’t be too hard to sort out.}}$
 $\color{#8A9A5B}{\textsf{“Chart your own way. Your path. That's my wish.”}}$
 
-
-
+<p align="center">
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/45b32e87-434a-4d23-97f7-a6fe2da484c2" />
 $\color{#FFC0CB}{\textsf{Happily taken by @magicaIgirI .}}$
 
