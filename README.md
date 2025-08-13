@@ -9,6 +9,4 @@ $\color{#8A9A5B}{\textsf{“Chart your own way. Your path. That's my wish.”}}$
 
 <p align="center">
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/45b32e87-434a-4d23-97f7-a6fe2da484c2" />
-$\color{#FFC0CB}{\textsf{Happily taken by @magicaIgirI .}}$
-
-$\color{#76b6c4}{\textsf{}}$
+$\color{#FF2400}{\textsf{Happily taken by @la-manchaland}}$
